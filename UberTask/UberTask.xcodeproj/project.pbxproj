@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C32374A2345BBBC00760AFC /* Feed.json in Resources */ = {isa = PBXBuildFile; fileRef = 9C3237492345BBBC00760AFC /* Feed.json */; };
+		9C32374B2345BBBC00760AFC /* Feed.json in Resources */ = {isa = PBXBuildFile; fileRef = 9C3237492345BBBC00760AFC /* Feed.json */; };
 		9C9B6E7F2343256B0009634F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9B6E7E2343256B0009634F /* AppDelegate.swift */; };
 		9C9B6E812343256B0009634F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9B6E802343256B0009634F /* ViewController.swift */; };
 		9C9B6E842343256B0009634F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C9B6E822343256B0009634F /* Main.storyboard */; };
@@ -51,6 +53,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9C3237492345BBBC00760AFC /* Feed.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Feed.json; sourceTree = "<group>"; };
 		9C9B6E7B2343256B0009634F /* UberTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UberTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C9B6E7E2343256B0009634F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9C9B6E802343256B0009634F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -136,6 +139,7 @@
 		9C9B6E92234325750009634F /* UberTaskTests */ = {
 			isa = PBXGroup;
 			children = (
+				9C3237492345BBBC00760AFC /* Feed.json */,
 				9C9B6E93234325750009634F /* UberTaskTests.swift */,
 				9C9B6E95234325750009634F /* Info.plist */,
 			);
@@ -293,6 +297,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9C9B6E89234325750009634F /* LaunchScreen.storyboard in Resources */,
+				9C32374A2345BBBC00760AFC /* Feed.json in Resources */,
 				9C9B6E86234325750009634F /* Assets.xcassets in Resources */,
 				9C9B6E842343256B0009634F /* Main.storyboard in Resources */,
 			);
@@ -302,6 +307,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C32374B2345BBBC00760AFC /* Feed.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

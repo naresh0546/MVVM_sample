@@ -9,7 +9,6 @@
 import Foundation
 import UIKit
 struct PhotosViewModel {
-    
     let currentPhotos: Flickr_Base
     
     init(currentPhotos: Flickr_Base) {
